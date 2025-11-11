@@ -63,3 +63,4 @@ This simple setup allows you to focus entirely on the JavaScript code and its be
 
 This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](../LICENSE) file for full details.
 
+
