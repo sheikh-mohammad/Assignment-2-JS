@@ -21,16 +21,16 @@ This collection features 10 additional projects that build on the previous set.
 
 | #   | Project Title             | Description                                                                                   |
 | --- | ------------------------- | --------------------------------------------------------------------------------------------- |
-| 1   | **Number Parity**         | Checks if a number is even, odd, or zero.                                                     |
-| 2   | **Leap Year Check**       | Determines if a given year is a leap year using the defining rules.                           |
-| 3   | **Login Authentication**  | Simulates a basic login system by checking a username and password.                           |
-| 4   | **Grades**                | Assigns a grade (A, B, C, or Fail) based on marks, with different thresholds.                 |
-| 5   | **Time of Day Greeting**  | Greets the user with "Good Morning," "Good Afternoon," or "Good Evening" based on the hour.    |
-| 6   | **Discount Eligibility**  | Calculates a discount percentage based on the total purchase amount.                          |
-| 7   | **Speeding Ticket**       | Issues a speeding warning or a fine based on the driver's speed.                              |
-| 8   | **Number Range Check**    | Checks if a number falls within specific ranges (1-10, 11-20, 21-30).                         |
-| 9   | **Age Verification**      | Classifies a person as an "Adult," "Teenager," or "Child" based on their age.                 |
-| 10  | **Voting Eligibility**    | Determines if a person is eligible to vote, soon eligible, or not yet eligible.               |
+| 1   | [**Number Parity**](./01_Number_Parity/README.md)         | Checks if a number is even, odd, or zero.                                                     |
+| 2   | [**Leap Year Check**](./02_Leap_Year_Check/README.md)       | Determines if a given year is a leap year using the defining rules.                           |
+| 3   | [**Login Authentication**](./03_Login_Authentication/README.md)  | Simulates a basic login system by checking a username and password.                           |
+| 4   | [**Grades**](./04_Grades/README.md)                | Assigns a grade (A, B, C, or Fail) based on marks, with different thresholds.                 |
+| 5   | [**Time of Day Greeting**](./05_Time_of_Day_Greeting/README.md)  | Greets the user with "Good Morning," "Good Afternoon," or "Good Evening" based on the hour.    |
+| 6   | [**Discount Eligibility**](./06_Discount_Eligibility/README.md)  | Calculates a discount percentage based on the total purchase amount.                          |
+| 7   | [**Speeding Ticket**](./07_Speeding_Ticket/README.md)       | Issues a speeding warning or a fine based on the driver's speed.                              |
+| 8   | [**Number Range Check**](./08_Number_Range_Check/README.md)    | Checks if a number falls within specific ranges (1-10, 11-20, 21-30).                         |
+| 9   | [**Age Verification**](./09_Age_Verification/README.md)      | Classifies a person as an "Adult," "Teenager," or "Child" based on their age.                 |
+| 10  | [**Voting Eligibility**](./10_Voting_Eligibility/README.md)    | Determines if a person is eligible to vote, soon eligible, or not yet eligible.               |
 
 ## How to Run Any Exercise
 
@@ -56,3 +56,7 @@ Each project folder is structured as follows:
 -   `script.js`: The JavaScript file containing the `if-else if-else` logic for the specific problem.
 
 This simple setup allows you to focus entirely on the JavaScript code and its behavior.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.

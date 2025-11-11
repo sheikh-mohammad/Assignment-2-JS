@@ -49,3 +49,8 @@ If you enter `31`, the console will output:
 Obese
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+
+[Go Back to 01_If_Else_IF_Else README](../README.md)

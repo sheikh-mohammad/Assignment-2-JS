@@ -22,16 +22,16 @@ This collection features 10 projects, each highlighting different ways to use lo
 
 | #   | Project Title                       | Description                                                                                             |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1   | **Even and Positive Number Check**  | Checks if a number is both even and positive, even but negative, or odd.                                |
-| 2   | **Eligibility to Vote**             | Determines voting eligibility based on age and citizenship.                                             |
-| 3   | **Teenager and Student Check**      | Identifies if a person is a teenager and/or a student based on age and student status.                  |
-| 4   | **Discount**                        | Applies a discount based on age and membership type (e.g., Gold, Silver).                               |
-| 5   | **Password Validation**             | Validates password strength based on length, presence of uppercase letters, and numbers.                |
-| 6   | **Temperature Check**               | Recommends clothing based on temperature ranges, using `OR` for extreme cold.                           |
-| 7   | **Driving Age and License Check**   | Checks eligibility to drive based on age and whether a license is held.                                 |
-| 8   | **Loan Eligibility**                | Determines loan approval, pending status, or denial based on salary and credit score.                   |
-| 9   | **Working Hours and Overtime Pay**  | Calculates if overtime pay is applicable based on working hours and hourly rate.                        |
-| 10  | **School Grade Check**              | Evaluates a student's performance based on marks and attendance, identifying areas for improvement.     |
+| 1   | [**Even and Positive Number Check**](./01_Even_and_Positive_Number_Check/README.md)  | Checks if a number is both even and positive, even but negative, or odd.                                |
+| 2   | [**Eligibility to Vote**](./02_Eligibility_to_Vote/README.md)             | Determines voting eligibility based on age and citizenship.                                             |
+| 3   | [**Teenager and Student Check**](./03_Teenager_and_Student_Check/README.md)      | Identifies if a person is a teenager and/or a student based on age and student status.                  |
+| 4   | [**Discount**](./04_Discount/README.md)                        | Applies a discount based on age and membership type (e.g., Gold, Silver).                               |
+| 5   | [**Password Validation**](./05_Password_Validation/README.md)             | Validates password strength based on length, presence of uppercase letters, and numbers.                |
+| 6   | [**Temperature Check**](./06_Temperature_Check/README.md)               | Recommends clothing based on temperature ranges, using `OR` for extreme cold.                           |
+| 7   | [**Driving Age and License Check**](./07_Driving_Age_and_License_Check/README.md)   | Checks eligibility to drive based on age and whether a license is held.                                 |
+| 8   | [**Loan Eligibility**](./08_Loan_Eligibility/README.md)                | Determines loan approval, pending status, or denial based on salary and credit score.                   |
+| 9   | [**Working Hours and Overtime Pay**](./09_Working_Hours_and_Overtime_Pay/README.md)  | Calculates if overtime pay is applicable based on working hours and hourly rate.                        |
+| 10  | [**School Grade Check**](./10_School_Grade_Check/README.md)              | Evaluates a student's performance based on marks and attendance, identifying areas for improvement.     |
 
 ## How to Run Any Exercise
 
@@ -58,3 +58,6 @@ Each project folder is structured as follows:
 
 This setup allows you to focus on how logical operators enhance conditional branching.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.

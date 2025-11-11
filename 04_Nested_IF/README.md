@@ -23,16 +23,16 @@ This collection includes several projects to practice nested `if` logic.
 
 | #   | Project Title                | Description                                                                                                |
 | --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1   | **Number Classification**    | Classifies a number first by its sign (Positive/Negative) and then by its parity (Even/Odd).               |
-| 2   | **Age Group Classification** | Categorizes a person into Child, Teenager, Adult, or Senior Citizen using nested checks.                   |
-| 3   | **Grade Classification**     | Assigns a grade (A, B, C, or Fail) with nested conditions for finer grading within a range.                |
-| 4   | **Discount Eligibility**     | Determines a discount percentage based on a primary condition (purchase amount) and a secondary one (membership level). |
-| 5   | **Voting Eligibility**       | Determines a person's voting eligibility based on their age and nationality.                               |
-| 6   | **Scholarship Eligibility**  | Determines a student's eligibility for a scholarship based on their marks and family income.               |
-| 7   | **Electricity Bill Calc.**   | Calculates the electricity tariff based on the number of units consumed and the time of day.               |
-| 8   | **Login Authentication**     | Simulates a basic login authentication system using nested `if` statements.                                |
-| 9   | **BMI Category Check**       | Calculates BMI and categorizes it as "Underweight", "Normal weight", or "Overweight".                    |
-| 10  | **Job Eligibility**          | Determines a candidate's eligibility for different job positions based on their experience and skill level. |
+| 1   | [**Number Classification**](./01_Number_Classification/README.md)    | Classifies a number first by its sign (Positive/Negative) and then by its parity (Even/Odd).               |
+| 2   | [**Age Group Classification**](./02_Age_Group_Classification/README.md) | Categorizes a person into Child, Teenager, Adult, or Senior Citizen using nested checks.                   |
+| 3   | [**Grade Classification**](./03_Grade_Classification/README.md)     | Assigns a grade (A, B, C, or Fail) with nested conditions for finer grading within a range.                |
+| 4   | [**Discount Eligibility**](./04_Discount_Eligibility/README.md)     | Determines a discount percentage based on a primary condition (purchase amount) and a secondary one (membership level). |
+| 5   | [**Voting Eligibility**](./05_Voting_Eligibility/README.md)       | Determines a person's voting eligibility based on their age and nationality.                               |
+| 6   | [**Scholarship Eligibility**](./06_Scholarship_Eligibility/README.md)  | Determines a student's eligibility for a scholarship based on their marks and family income.               |
+| 7   | [**Electricity Bill Calc.**](./07_Electricity_Bill_Calculation/README.md)   | Calculates the electricity tariff based on the number of units consumed and the time of day.               |
+| 8   | [**Login Authentication**](./08_Login_Authentication/README.md)     | Simulates a basic login authentication system using nested `if` statements.                                |
+| 9   | [**BMI Category Check**](./09_BMI_Category_Check/README.md)       | Calculates BMI and categorizes it as "Underweight", "Normal weight", or "Overweight".                    |
+| 10  | [**Job Eligibility**](./10_Job_Eligibility/README.md)          | Determines a candidate's eligibility for different job positions based on their experience and skill level. |
 
 ## How to Run Any Implemented Exercise
 
@@ -57,3 +57,6 @@ Each project folder contains:
 -   `index.html`: The main HTML file that loads the JavaScript code.
 -   `script.js`: The JavaScript file containing the nested `if` logic.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.
