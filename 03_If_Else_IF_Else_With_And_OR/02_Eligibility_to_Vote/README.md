@@ -50,3 +50,7 @@ Not eligible to vote
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
