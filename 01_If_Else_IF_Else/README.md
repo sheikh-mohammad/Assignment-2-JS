@@ -21,16 +21,16 @@ This collection features 10 small projects, each demonstrating a different use c
 
 | #   | Project Title               | Description                                                                                   |
 | --- | --------------------------- | --------------------------------------------------------------------------------------------- |
-| 1   | **Number Check**            | Checks if a user-provided number is positive, negative, or zero.                                |
-| 2   | **Age Category**            | Categorizes a person as a Child, Teenager, Adult, or Senior Citizen based on their age.         |
-| 3   | **Temperature Message**     | Displays a message based on the temperature (e.g., "Freezing cold," "Hot day").               |
-| 4   | **Marks Grade System**      | Assigns a grade (A, B, C, or Fail) based on a student's marks.                                  |
-| 5   | **Traffic Light System**    | Simulates a traffic light by telling the driver to "Stop," "Get ready," or "Go."                |
-| 6   | **Day of Week**             | Converts a number (1-7) into the corresponding day of the week.                                 |
-| 7   | **Password Strength Checker** | Checks if a password is "Weak," "Moderate," or "Strong" based on its length.                   |
-| 8   | **Electricity Bill**        | Determines the electricity tariff based on the number of units consumed.                        |
-| 9   | **BMI Category**            | Categorizes a person's BMI as "Underweight," "Normal," "Overweight," or "Obese."                |
-| 10  | **Exam Eligibility**        | Checks if a student is eligible to sit for an exam based on their attendance percentage.        |
+| 1   | [**Number Check**](./01_Number_Check/README.md)            | Checks if a user-provided number is positive, negative, or zero.                                |
+| 2   | [**Age Category**](./02_Age_Category/README.md)            | Categorizes a person as a Child, Teenager, Adult, or Senior Citizen based on their age.         |
+| 3   | [**Temperature Message**](./03_Temperature_Message/README.md)     | Displays a message based on the temperature (e.g., "Freezing cold," "Hot day").               |
+| 4   | [**Marks Grade System**](./04_Marks_Grade_System/README.md)      | Assigns a grade (A, B, C, or Fail) based on a student's marks.                                  |
+| 5   | [**Traffic Light System**](./05_Traffic_Light_System/README.md)    | Simulates a traffic light by telling the driver to "Stop," "Get ready," or "Go."                |
+| 6   | [**Day of Week**](./06_Day_of_Week/README.md)             | Converts a number (1-7) into the corresponding day of the week.                                 |
+| 7   | [**Password Strength Checker**](./07_Password_Strength_Checker/README.md) | Checks if a password is "Weak," "Moderate," or "Strong" based on its length.                   |
+| 8   | [**Electricity Bill**](./08_Electricity_Bill/README.md)        | Determines the electricity tariff based on the number of units consumed.                        |
+| 9   | [**BMI Category**](./09_BMI_Category/README.md)            | Categorizes a person's BMI as "Underweight," "Normal," "Overweight," or "Obese."                |
+| 10  | [**Exam Eligibility**](./10_Exam_Eligibility/README.md)        | Checks if a student is eligible to sit for an exam based on their attendance percentage.        |
 
 ## How to Run Any Exercise
 
@@ -56,3 +56,7 @@ Each project folder is structured as follows:
 -   `script.js`: The JavaScript file containing the `if-else if-else` logic.
 
 This simple setup allows you to focus entirely on the JavaScript code and its behavior.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.
