@@ -4,13 +4,13 @@
 
 This project categorizes a person into "Child", "Teenager", "Adult", or "Senior citizen" based on their age. It's a practical example of using `if-else if-else` statements to handle multiple conditions.
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Open the Application**: Open the `index.html` file in any modern web browser.
 2.  **Provide Input**: The browser will display a prompt asking you to "Enter Age:". Type an age and click "OK".
 3.  **See the Result**: Open the browser's developer console (`Ctrl+Shift+I` or `Cmd+Option+I` and click the "Console" tab) to see the output.
 
-## 💻 Code Explanation
+## Code Explanation
 
 The core logic is in the `script.js` file.
 
@@ -51,7 +51,9 @@ Teenager
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+© 2025 sheikh-mohammad. All Rights Reserved.
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](../../../LICENSE) file for full details.
 
 [Go Back to 01_If_Else_IF_Else README](../README.md)
 
