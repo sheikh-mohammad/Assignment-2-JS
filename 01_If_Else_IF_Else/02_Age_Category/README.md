@@ -59,3 +59,7 @@ This project is provided for educational and review purposes only. The code is n
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
