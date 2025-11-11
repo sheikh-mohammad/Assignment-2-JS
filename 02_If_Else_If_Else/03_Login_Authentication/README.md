@@ -55,3 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](../../../LICE
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
