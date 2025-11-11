@@ -47,15 +47,10 @@ If you enter age `18` and status `no`, the console will output:
 Teenager but not a Student
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
-
 [Go Back to 03_If_Else_IF_Else_With_And_OR README](../README.md)
 
-
-
-
 ## License
 
-© 2025 sheikh-mohammad. All Rights Reserved.
+Â© 2025 sheikh-mohammad. All Rights Reserved
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](LICENSE) file for full details.
