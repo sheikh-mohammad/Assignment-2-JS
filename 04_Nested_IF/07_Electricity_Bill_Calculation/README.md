@@ -56,3 +56,7 @@ If you enter `200` units and `night`, the console will output:
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
