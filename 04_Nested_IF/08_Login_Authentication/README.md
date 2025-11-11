@@ -52,3 +52,7 @@ Incorrect password
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
