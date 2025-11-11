@@ -48,3 +48,4 @@ If you enter marks `90` and family income `600000`, the console will output:
 ```
 Not eligible due to high family income
 ```
+

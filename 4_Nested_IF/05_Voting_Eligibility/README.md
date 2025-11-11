@@ -48,3 +48,4 @@ If you enter age `20` and nationality `India`, the console will output:
 ```
 Not Eligible due to nationality
 ```
+

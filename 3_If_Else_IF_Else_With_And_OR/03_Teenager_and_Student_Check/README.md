@@ -46,3 +46,4 @@ If you enter age `18` and status `no`, the console will output:
 ```
 Teenager but not a Student
 ```
+

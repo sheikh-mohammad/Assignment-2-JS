@@ -56,3 +56,4 @@ Each project folder contains:
 
 -   `index.html`: The main HTML file that loads the JavaScript code.
 -   `script.js`: The JavaScript file containing the nested `if` logic.
+

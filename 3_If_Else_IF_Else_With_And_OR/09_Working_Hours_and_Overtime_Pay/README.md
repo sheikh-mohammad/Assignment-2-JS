@@ -46,3 +46,4 @@ If you enter `42` hours and a rate of `150`, the console will output:
 ```
 No overtime pay
 ```
+

@@ -45,3 +45,4 @@ If you enter `password123`, the console will output:
 ```
 Moderate password
 ```
+

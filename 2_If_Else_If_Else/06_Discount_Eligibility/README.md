@@ -45,3 +45,4 @@ If you enter `2500`, the console will output:
 ```
 10% discount
 ```
+

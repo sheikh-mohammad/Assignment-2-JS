@@ -46,3 +46,4 @@ If you enter a salary of `55000` and a credit score of `650`, the console will o
 ```
 Loan Pending
 ```
+

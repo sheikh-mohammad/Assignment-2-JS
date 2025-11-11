@@ -57,3 +57,4 @@ Each project folder is structured as follows:
 -   `script.js`: The JavaScript file containing the `if-else if-else` logic with logical operators.
 
 This setup allows you to focus on how logical operators enhance conditional branching.
+

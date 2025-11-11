@@ -46,3 +46,4 @@ If you enter `user` and `password`, the console will output:
 ```
 Invalid credentials
 ```
+

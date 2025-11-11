@@ -45,3 +45,4 @@ If you enter `7`, the console will output:
 ```
 Odd number
 ```
+

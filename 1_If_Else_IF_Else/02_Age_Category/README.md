@@ -48,3 +48,4 @@ If you enter `18`, the console will output:
 ```
 Teenager
 ```
+

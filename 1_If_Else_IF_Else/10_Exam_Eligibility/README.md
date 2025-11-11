@@ -45,3 +45,4 @@ If you enter `65`, the console will output:
 ```
 Warning: Attend more classes
 ```
+
