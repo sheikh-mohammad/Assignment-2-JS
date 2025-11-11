@@ -46,15 +46,10 @@ If you enter `-4`, the console will output:
 Even but Negative number
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
-
 [Go Back to 03_If_Else_IF_Else_With_And_OR README](../README.md)
 
-
-
-
 ## License
 
-© 2025 sheikh-mohammad. All Rights Reserved.
+Â© 2025 sheikh-mohammad. All Rights Reserved
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](LICENSE) file for full details.
