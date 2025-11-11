@@ -50,3 +50,7 @@ Loan Pending
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
