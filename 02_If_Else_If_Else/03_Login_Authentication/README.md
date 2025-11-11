@@ -22,19 +22,19 @@ The core logic is in the `script.js` file.
     These lines prompt the user for their username and password.
 
 -   **Conditional Logic**:
-    The `if-else if-else` statement validates the credentials:
+    The `if-else if-else` statement validates the credentials. A more robust approach would be to check for empty inputs first:
     ```javascript
-    if ((userName == "admin") && (password == "1234")) {
-        console.log("Login successful");
-    } else if ((userName != "admin") || (password != "1234")) {
-        console.log("Invalid credentials");
-    } else if ((userName == '') || (password == '')) {
+    if (userName === '' || password === '') {
         console.log("Please enter username and password");
+    } else if (userName === "admin" && password === "1234") {
+        console.log("Login successful");
+    } else {
+        console.log("Invalid credentials");
     }
     ```
-    - It first checks if both `userName` is "admin" AND `password` is "1234".
-    - If not, it checks if either the `userName` is not "admin" OR the `password` is not "1234".
-    - The last check for empty strings is currently unreachable because the second condition will always catch invalid credentials first. A better structure would be to check for empty inputs first.
+    -   First, it checks if either `userName` or `password` is empty.
+    -   If not empty, it checks if both `userName` is "admin" AND `password` is "1234".
+    -   If neither of the above conditions is met, it logs "Invalid credentials".
 
 ## ✨ Example
 
@@ -47,3 +47,8 @@ If you enter `user` and `password`, the console will output:
 Invalid credentials
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+
+[Go Back to 02_If_Else_If_Else README](../README.md)

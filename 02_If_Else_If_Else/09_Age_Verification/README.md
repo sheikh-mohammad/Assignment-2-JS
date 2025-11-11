@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-This project classifies a person as an "Adult", "Teenager", or "Child" based on their age. It's a simple age-based categorization task that highlights a potential logic flaw in the `if-else if-else` sequence.
+This project classifies a person as an "Adult", "Teenager", or "Child" based on their age. It's a simple age-based categorization task that highlights the importance of correct `if-else if-else` sequence.
 
 ## 🚀 How to Use
 
@@ -21,19 +21,21 @@ The core logic is in the `script.js` file.
     This line prompts the user to enter their age. The `+` sign converts the input to a number.
 
 -   **Conditional Logic**:
-    The `if-else if-else` statement checks the `age`:
+    The `if-else if-else` statement checks the `age`. To ensure correct categorization, the checks should be ordered from the smallest age group to the largest, or vice-versa, to avoid conditions being prematurely met.
+
+    A corrected logical flow would be:
     ```javascript
-    if (age >= 18) {
-        console.log("Adult");
-    } else if (age < 17) {
+    if (age < 13) {
+        console.log("Child");
+    } else if (age < 18) { // This covers ages 13-17
         console.log("Teenager");
-    } else if (age < 13) {
-        console.log("ChildF");
+    } else { // This covers ages 18 and above
+        console.log("Adult");
     }
     ```
+    -   If the age is less than 13, it logs "Child".
+    -   If the age is between 13 and 17 (inclusive), it logs "Teenager".
     -   If the age is 18 or greater, it logs "Adult".
-    -   If the age is less than 17, it logs "Teenager".
-    -   **Note**: The third condition `age < 13` is currently unreachable. Any age less than 13 is also less than 17, so the second condition will always execute first. To fix this, the order of checks should be from smallest to largest (e.g., check for `< 13` first). The "ChildF" seems to be a typo and should be "Child".
 
 ## ✨ Example
 
@@ -45,4 +47,13 @@ If you enter `16`, the console will output:
 ```
 Teenager
 ```
+If you enter `8`, the console will output:
+```
+Child
+```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+
+[Go Back to 02_If_Else_If_Else README](../README.md)

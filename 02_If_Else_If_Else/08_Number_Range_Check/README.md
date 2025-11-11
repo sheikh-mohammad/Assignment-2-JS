@@ -49,3 +49,8 @@ If you enter `25`, the console will output:
 Between 21 and 30
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+
+[Go Back to 02_If_Else_If_Else README](../README.md)

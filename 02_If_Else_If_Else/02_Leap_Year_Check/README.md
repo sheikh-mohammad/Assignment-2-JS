@@ -54,3 +54,8 @@ If you enter `1900`, the console will output:
 Not a leap year
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+
+[Go Back to 02_If_Else_If_Else README](../README.md)
