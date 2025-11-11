@@ -53,3 +53,7 @@ Needs to improve attendance
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
