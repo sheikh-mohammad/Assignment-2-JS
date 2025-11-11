@@ -1,6 +1,6 @@
 # Project: Age Category
 
-## 📝 Overview
+## Overview
 
 This project categorizes a person into "Child", "Teenager", "Adult", or "Senior citizen" based on their age. It's a practical example of using `if-else if-else` statements to handle multiple conditions.
 
