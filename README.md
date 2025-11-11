@@ -30,16 +30,17 @@ This repository is organized into several sections, each focusing on a specific 
     cd Assignment-2-JS
     ```
 3.  **Explore the Assignments**:
-    Each numbered folder (`1_...`, `2_...`, etc.) contains a `README.md` file with detailed information about the exercises within that section, including how to run them.
+    Each numbered folder (`1_...`, `2_...`, etc.) contains a main `README.md` that provides an overview of the exercises in that section. Furthermore, every individual project folder (e.g., `01_Number_Check`) now includes its own detailed `README.md` with a code explanation, usage instructions, and examples.
 
 ## How to Use
 
 To run any specific assignment:
 
 1.  Navigate to the desired assignment's folder (e.g., `1_If_Else_IF_Else/01_Number_Check/`).
-2.  Open the `index.html` file in your web browser.
-3.  Interact with any `prompt()` dialogs that appear.
-4.  Open your browser's developer console (usually by pressing `F12` and selecting the "Console" tab) to view the output of the JavaScript code.
+2.  For a detailed explanation of the code, open and read the `README.md` file in that folder.
+3.  Open the `index.html` file in your web browser.
+4.  Interact with any `prompt()` dialogs that appear.
+5.  Open your browser's developer console (usually by pressing `F12` or `Ctrl+Shift+I`) to view the output of the JavaScript code.
 
 ## Learning Objectives
 
