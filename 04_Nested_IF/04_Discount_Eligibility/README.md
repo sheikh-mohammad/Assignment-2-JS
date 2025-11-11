@@ -60,3 +60,7 @@ If you enter `3000` and `Silver`, the console will output:
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
