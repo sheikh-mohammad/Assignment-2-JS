@@ -46,15 +46,10 @@ If you enter `2500`, the console will output:
 10% discount
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
-
 [Go Back to 02_If_Else_If_Else README](../README.md)
 
-
-
-
 ## License
 
-© 2025 sheikh-mohammad. All Rights Reserved.
+Â© 2025 sheikh-mohammad. All Rights Reserved
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](LICENSE) file for full details.
