@@ -4,7 +4,7 @@
 
 This project is a simple JavaScript application that checks if a user-provided number is positive, negative, or zero. It's a great example for beginners to understand how to use `if-else if-else` conditional statements to handle different cases based on user input.
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Open the Application**: Open the `index.html` file in any modern web browser.
 2.  **Provide Input**: The browser will display a prompt asking you to "Enter Any Number:". Type a number and click "OK".
