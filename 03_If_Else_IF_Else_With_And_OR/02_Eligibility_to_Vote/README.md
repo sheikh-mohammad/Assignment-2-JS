@@ -47,10 +47,8 @@ If you enter age `17` and citizenship `Pakistan`, the console will output:
 Not eligible to vote
 ```
 
-
-
-
-
 ## License
 
-© 2025 sheikh-mohammad. All Rights Reserved.
+Â© 2025 sheikh-mohammad. All Rights Reserved
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](LICENSE) file for full details.
