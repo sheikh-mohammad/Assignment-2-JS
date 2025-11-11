@@ -52,3 +52,7 @@ Not eligible due to high family income
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
