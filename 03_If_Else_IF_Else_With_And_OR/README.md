@@ -60,4 +60,6 @@ This setup allows you to focus on how logical operators enhance conditional bran
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.
+© 2025 sheikh-mohammad. All Rights Reserved.
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](../LICENSE) file for full details.
