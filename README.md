@@ -8,10 +8,10 @@ This repository contains JavaScript assignments for the Techno Kids Batch 7 at S
 
 This repository is organized into several sections, each focusing on a specific aspect of conditional logic in JavaScript.
 
--   [**1_If_Else_IF_Else**](./1_If_Else_IF_Else/README.md): Exercises focusing on basic `if-else if-else` statements.
--   [**2_If_Else_If_Else**](./2_If_Else_If_Else/README.md): Further practice with `if-else if-else` statements, introducing more varied scenarios.
--   [**3_If_Else_IF_Else_With_And_OR**](./3_If_Else_IF_Else_With_And_OR/README.md): Exercises demonstrating the use of logical `AND` (`&&`) and `OR` (`||`) operators within conditional statements.
--   [**4_Nested_IF**](./4_Nested_IF/README.md): Projects exploring complex conditional logic using nested `if` statements.
+-   [**01_If_Else_IF_Else**](./01_If_Else_IF_Else/README.md): Exercises focusing on basic `if-else if-else` statements.
+-   [**02_If_Else_If_Else**](./02_If_Else_If_Else/README.md): Further practice with `if-else if-else` statements, introducing more varied scenarios.
+-   [**03_If_Else_IF_Else_With_And_OR**](./03_If_Else_IF_Else_With_And_OR/README.md): Exercises demonstrating the use of logical `AND` (`&&`) and `OR` (`||`) operators within conditional statements.
+-   [**04_Nested_IF**](./04_Nested_IF/README.md): Projects exploring complex conditional logic using nested `if` statements.
 
 ## Prerequisites
 
@@ -30,13 +30,13 @@ This repository is organized into several sections, each focusing on a specific 
     cd Assignment-2-JS
     ```
 3.  **Explore the Assignments**:
-    Each numbered folder (`1_...`, `2_...`, etc.) contains a main `README.md` that provides an overview of the exercises in that section. Furthermore, every individual project folder (e.g., `01_Number_Check`) now includes its own detailed `README.md` with a code explanation, usage instructions, and examples.
+    Each numbered folder (`01_...`, `02_...`, etc.) contains a main `README.md` that provides an overview of the exercises in that section. Furthermore, every individual project folder (e.g., `01_Number_Check`) now includes its own detailed `README.md` with a code explanation, usage instructions, and examples.
 
 ## How to Use
 
 To run any specific assignment:
 
-1.  Navigate to the desired assignment's folder (e.g., `1_If_Else_IF_Else/01_Number_Check/`).
+1.  Navigate to the desired assignment's folder (e.g., `01_If_Else_IF_Else/01_Number_Check/`).
 2.  For a detailed explanation of the code, open and read the `README.md` file in that folder.
 3.  Open the `index.html` file in your web browser.
 4.  Interact with any `prompt()` dialogs that appear.
@@ -63,5 +63,4 @@ This repository is primarily for educational purposes. However, suggestions for 
 
 ## License
 
-This project is created for educational purposes at Saylani Mass IT Training. The code may be used for learning and educational purposes. For commercial use, please contact the institution.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
