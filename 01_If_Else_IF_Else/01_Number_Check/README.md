@@ -35,7 +35,7 @@ The core logic is in the `script.js` file.
     -   If `num` is less than 0, it logs "Negative number".
     -   Otherwise (if `num` is 0), it logs "Zero".
 
-## ✨ Example
+## Example
 
 If you enter `10`, the console will output:
 ```
