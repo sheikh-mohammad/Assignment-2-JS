@@ -52,6 +52,8 @@ Zero
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
+© 2025 sheikh-mohammad. All Rights Reserved.
+
+This project is for educational and review purposes only. The code is not licensed for use, modification, or distribution. See the [LICENSE](../../LICENSE) file for full details.
 
 [Go Back to 01_If_Else_IF_Else README](../README.md)
