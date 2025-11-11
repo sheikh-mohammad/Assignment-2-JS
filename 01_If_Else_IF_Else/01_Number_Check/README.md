@@ -10,7 +10,7 @@ This project is a simple JavaScript application that checks if a user-provided n
 2.  **Provide Input**: The browser will display a prompt asking you to "Enter Any Number:". Type a number and click "OK".
 3.  **See the Result**: Open the browser's developer console (`Ctrl+Shift+I` or `Cmd+Option+I` and click the "Console" tab) to see the output. The console will log whether the number is "Positive number", "Negative number", or "Zero".
 
-## 💻 Code Explanation
+## Code Explanation
 
 The core logic is in the `script.js` file.
 
