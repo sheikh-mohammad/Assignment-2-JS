@@ -1,16 +1,16 @@
 # Project: Number Check
 
-## 📝 Overview
+## Overview
 
 This project is a simple JavaScript application that checks if a user-provided number is positive, negative, or zero. It's a great example for beginners to understand how to use `if-else if-else` conditional statements to handle different cases based on user input.
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Open the Application**: Open the `index.html` file in any modern web browser.
 2.  **Provide Input**: The browser will display a prompt asking you to "Enter Any Number:". Type a number and click "OK".
 3.  **See the Result**: Open the browser's developer console (`Ctrl+Shift+I` or `Cmd+Option+I` and click the "Console" tab) to see the output. The console will log whether the number is "Positive number", "Negative number", or "Zero".
 
-## 💻 Code Explanation
+## Code Explanation
 
 The core logic is in the `script.js` file.
 
@@ -35,7 +35,7 @@ The core logic is in the `script.js` file.
     -   If `num` is less than 0, it logs "Negative number".
     -   Otherwise (if `num` is 0), it logs "Zero".
 
-## ✨ Example
+## Example
 
 If you enter `10`, the console will output:
 ```
