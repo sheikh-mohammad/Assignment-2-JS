@@ -49,3 +49,7 @@ Wear heavy clothes
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
