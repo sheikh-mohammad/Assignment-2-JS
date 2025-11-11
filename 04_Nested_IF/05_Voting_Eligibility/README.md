@@ -52,3 +52,7 @@ Not Eligible due to nationality
 
 
 
+
+## License
+
+© 2025 sheikh-mohammad. All Rights Reserved.
