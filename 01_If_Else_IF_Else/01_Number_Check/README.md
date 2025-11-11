@@ -1,6 +1,6 @@
 # Project: Number Check
 
-## 📝 Overview
+## Overview
 
 This project is a simple JavaScript application that checks if a user-provided number is positive, negative, or zero. It's a great example for beginners to understand how to use `if-else if-else` conditional statements to handle different cases based on user input.
 
