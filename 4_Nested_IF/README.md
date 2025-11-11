@@ -19,7 +19,7 @@ This directory focuses on exercises that require the use of **nested `if` statem
 
 This collection includes several projects to practice nested `if` logic.
 
-*Note: Some exercises in this directory (`05` through `10`) have been set up but do not yet contain JavaScript code. They serve as placeholders for future practice.*
+
 
 | #   | Project Title                | Description                                                                                                |
 | --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -27,12 +27,12 @@ This collection includes several projects to practice nested `if` logic.
 | 2   | **Age Group Classification** | Categorizes a person into Child, Teenager, Adult, or Senior Citizen using nested checks.                   |
 | 3   | **Grade Classification**     | Assigns a grade (A, B, C, or Fail) with nested conditions for finer grading within a range.                |
 | 4   | **Discount Eligibility**     | Determines a discount percentage based on a primary condition (purchase amount) and a secondary one (membership level). |
-| 5   | **Voting Eligibility**       | *(Not yet implemented)*                                                                                    |
-| 6   | **Scholarship Eligibility**  | *(Not yet implemented)*                                                                                    |
-| 7   | **Electricity Bill Calc.**   | *(Not yet implemented)*                                                                                    |
-| 8   | **Login Authentication**     | *(Not yet implemented)*                                                                                    |
-| 9   | **EMI Category Check**       | *(Not yet implemented)*                                                                                    |
-| 10  | **Job Eligibility**          | *(Not yet implemented)*                                                                                    |
+| 5   | **Voting Eligibility**       | Determines a person's voting eligibility based on their age and nationality.                               |
+| 6   | **Scholarship Eligibility**  | Determines a student's eligibility for a scholarship based on their marks and family income.               |
+| 7   | **Electricity Bill Calc.**   | Calculates the electricity tariff based on the number of units consumed and the time of day.               |
+| 8   | **Login Authentication**     | Simulates a basic login authentication system using nested `if` statements.                                |
+| 9   | **BMI Category Check**       | Calculates BMI and categorizes it as "Underweight", "Normal weight", or "Overweight".                    |
+| 10  | **Job Eligibility**          | Determines a candidate's eligibility for different job positions based on their experience and skill level. |
 
 ## How to Run Any Implemented Exercise
 
