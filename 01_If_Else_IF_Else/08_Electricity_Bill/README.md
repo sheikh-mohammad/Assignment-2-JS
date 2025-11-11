@@ -49,15 +49,10 @@ If you enter `250`, the console will output:
 ₹10 per unit
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
-
 [Go Back to 01_If_Else_IF_Else README](../README.md)
 
-
-
-
 ## License
 
-� 2025 sheikh-mohammad. All Rights Reserved.
+© 2025 sheikh-mohammad. All Rights Reserved
+
+This project is provided for educational and review purposes only. The code is not licensed for use, modification, or distribution. Please see the [LICENSE](LICENSE) file for full details.
