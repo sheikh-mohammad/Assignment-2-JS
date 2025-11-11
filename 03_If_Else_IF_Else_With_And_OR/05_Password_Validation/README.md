@@ -58,3 +58,4 @@ If you enter `password`, the console will output:
 Weak password
 ```
 
+
