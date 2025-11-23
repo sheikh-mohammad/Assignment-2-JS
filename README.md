@@ -52,14 +52,9 @@ These assignments aim to teach and reinforce:
 -   Practical problem-solving through JavaScript programming.
 -   Interacting with users via `prompt()` and displaying results via `console.log()`.
 
-## Assignment Notice`nThis is a personal assignment for the Saylani Mass IT Training Program. No contributions from external parties are allowed.
+## Assignment Notice
 
-This repository is primarily for educational purposes. However, suggestions for improvements, bug fixes, or additional examples are welcome. Please follow standard GitHub contribution practices:
-
-1.  Fork the repository.
-2.  Create a new branch for your features or fixes.
-3.  Make your changes.
-4.  Submit a pull request with a clear description of your contributions.
+This is a personal assignment for the Saylani Mass IT Training Program. No contributions from external parties are allowed.
 
 ## License
 
